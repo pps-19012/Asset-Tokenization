@@ -12,5 +12,5 @@
 
 
 ## Demo
-![one](https://github.com/pps-19012/Supply-Chain-v1/blob/main/Screenshot%202022-07-01%20152530.png)
+![one](https://github.com/pps-19012/InProgress1/blob/main/Screenshot%202022-06-24%20220651.png)
 - Used react.js for UI. It is minimalistic only to depict the functionality.
